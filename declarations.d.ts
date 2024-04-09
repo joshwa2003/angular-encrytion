@@ -1,0 +1,1 @@
+declare module '@openpgp/web-stream-tools';
